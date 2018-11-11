@@ -4,8 +4,8 @@ spring:
       name: spring-cloud-config-client
       profile: dev
       uri: http://10.3.99.29:8888
-      label: master
-#server:
+      label: 王世伟
+#server:master
 #  port: 7777
 #spring:
 #  application:
